@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lexicon version="1.0"
+      xmlns="http://www.w3.org/2005/01/pronunciation-lexicon"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.w3.org/2005/01/pronunciation-lexicon
+        http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
+      alphabet="ipa"
+      xml:lang="en-GB">
+  <lexeme>
+    <grapheme>moroni</grapheme>
+    <phoneme>məˈɹəʊnaɪ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Moroni</grapheme>
+    <phoneme>məˈɹəʊnaɪ</phoneme>
+  </lexeme>
+
+  <lexeme>
+    <grapheme>Ammonihah</grapheme>
+    <phoneme>ˌæməˈnaɪhə</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>ammonihah</grapheme>
+    <phoneme>ˌæməˈnaɪhə</phoneme>
+  </lexeme>
+
+  <lexeme>
+    <grapheme>Amalickiah</grapheme>
+    <phoneme>əˌmælɪˈkaɪ.ə</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>amalickiah</grapheme>
+    <phoneme>əˌmælɪˈkaɪ.ə</phoneme>
+  </lexeme>
+
+  <lexeme>
+    <grapheme>Lehonti</grapheme>
+    <phoneme>liːˈhɒntaɪ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Lehonti</grapheme>
+    <phoneme>liːˈhɒntaɪ</phoneme>
+  </lexeme>
+
+  <lexeme>
+    <grapheme>Leonti</grapheme>
+    <phoneme>liːˈhɒntaɪ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>leonti</grapheme>
+    <phoneme>liːˈhɒntaɪ</phoneme>
+  </lexeme>
+
+  <lexeme>
+    <grapheme>Amoran</grapheme>
+    <alias>əˈmeɪrɒn</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>amoran</grapheme>
+    <phoneme>əˈmeɪrɒn</phoneme>
+  </lexeme>
+
+  <lexeme>
+    <grapheme>Amaron</grapheme>
+    <alias>əˈmeɪrɒn</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>amaron</grapheme>
+    <phoneme>əˈmeɪrɒn</phoneme>
+  </lexeme>
+
+  <lexeme>
+    <grapheme>Nephihah</grapheme>
+    <alias>niːˈfaɪhɑː</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>nephihah</grapheme>
+    <phoneme>niːˈfaɪhɑː</phoneme>
+  </lexeme>
+
+  <lexeme>
+    <grapheme>Moronihah</grapheme>
+    <alias>ˌmoʊroʊˈnaɪhɑː</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>moronihah</grapheme>
+    <phoneme>ˌmoʊroʊˈnaɪhɑː</phoneme>
+  </lexeme>
+
+  <lexeme>
+    <grapheme>Malachi</grapheme>
+    <alias>ˈmæləkaɪ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>malachi</grapheme>
+    <phoneme>ˈmæləkaɪ</phoneme>
+  </lexeme>
+
+  <lexeme>
+    <grapheme>Lamoni</grapheme>
+    <alias>ləˈmoʊnaɪ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>lamoni</grapheme>
+    <phoneme>ləˈmoʊnaɪ</phoneme>
+  </lexeme>
+
+  <lexeme>
+    <grapheme>Lamah</grapheme>
+    <alias>ˈleɪmə</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>lamah</grapheme>
+    <phoneme>ˈleɪmə</phoneme>
+  </lexeme>
+
+  <lexeme>
+    <grapheme>Lib</grapheme>
+    <alias>lɪb</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>lib</grapheme>
+    <phoneme>lɪb</phoneme>
+  </lexeme>
+
+  <lexeme>
+    <grapheme>Limhah</grapheme>
+    <alias>ˈlɪmhɑː</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>limhah</grapheme>
+    <phoneme>ˈlɪmhɑː</phoneme>
+  </lexeme>
+
+  <lexeme>
+    <grapheme>Luram</grapheme>
+    <alias>ˈlʊərəm</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>luram</grapheme>
+    <phoneme>ˈlʊərəm</phoneme>
+  </lexeme>
+</lexicon>
